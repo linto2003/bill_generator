@@ -57,6 +57,3 @@ flask-bill-app
 - ReportLab
 - num2words
 
-## License
-
-This project is licensed under the MIT License.
